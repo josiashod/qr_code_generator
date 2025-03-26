@@ -1,0 +1,11 @@
+*.png
+env
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.egg-info
+*.egg
+*.log
